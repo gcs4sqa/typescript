@@ -2,4 +2,4 @@
 
 typescript course notes and exercises
 
-repo added as part of my commitment to seld improvement for 2020
+repo added as part of my commitment to self improvement for 2020
